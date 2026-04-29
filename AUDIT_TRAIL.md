@@ -19,3 +19,8 @@
     * **Milestone:** Lecture 4 ML Pipeline Task Completed. BestModel: Logistic Regression.
     * **Notes:** Trained Logistic Regression using top 5 features (Pclass, Fare, Parch, Age, SibSp). Achieved F1 score of 0.6066. Model artifacts (.pkl) and notebook pushed to S3 and GitHub 'machine_learning' folder.
     
+    ## Week 4: Titanic ML Project
+    * **Date:** 2026-04-29
+    * **Milestone:** Lecture 4 ML Pipeline Task Completed. BestModel: XGBoost.
+    * **Notes:** Trained XGBoost using top 5 features. Model artifacts (.pkl) and notebook pushed to S3 and GitHub 'machine_learning' folder.
+    
