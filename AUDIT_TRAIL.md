@@ -15,3 +15,8 @@
 * **Notes:** Built an ETL pipeline fetching raw Titanic data from AWS S3, engineered it in Colab (handling nulls and dummy variables), pushed the processed data back to S3, and synced it to GitHub for visualization in PowerBI.
 
     
+    ## Week 4: Titanic ML Project
+    * **Date:** 2026-04-29
+    * **Milestone:** Lecture 4 ML Pipeline Task Completed. BestModel: XGBoost.
+    * **Notes:** Trained XGBoost using top 5 features. Model artifacts (.pkl) and notebook pushed to S3 and GitHub 'machine_learning' folder.
+    
