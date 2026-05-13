@@ -29,3 +29,18 @@
 
 * **Notes:** Transformed raw Spanish Beverage Excel data into CSV using Pandas, adding a 'Total Revenue' feature. Established a live web-connector pipeline between GitHub and Power BI. Demonstrated live data refresh by injecting extreme data points via Python and updating the repository. Exported final visualizations to PDF and backed up to AWS S3.
 
+
+
+
+- **Task: 2026-05-13 15:10:52 (Week 5-6):** 
+
+    - **Task:** Advanced Deep Learning Classification & ETLS Pipeline Deployment. 
+
+    - **Models:** Trained Model A (3-layer) and Model B (5-layer) using Keras HDF5. 
+
+    - **Processing:** Applied `StandardScaler` for neural convergence. 
+
+    - **Deployment:** Programmatically synchronized artifacts and documentation to AWS S3 and GitHub. 
+
+    - **Status:** ETLS pipeline execution verified and complete. 
+
