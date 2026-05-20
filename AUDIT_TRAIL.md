@@ -44,3 +44,5 @@
 
     - **Status:** ETLS pipeline execution verified and complete. 
 
+
+* **2026-05-20 - Computer Vision:** Trained CIFAR-10 CNN (`cifar_custom_cnn.h5`) and deployed to S3/GitHub.
