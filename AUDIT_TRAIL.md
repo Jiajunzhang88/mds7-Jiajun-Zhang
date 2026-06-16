@@ -46,5 +46,7 @@
 
 
 * **2026-05-20 - Computer Vision:** Trained CIFAR-10 CNN (`cifar_custom_cnn.h5`) and deployed to S3/GitHub.
+
+## Week 10: Green AI experiment
 - **2026-06-16 - Custom Green AI:** Trained and evaluated Random Forest Classifier configurations (50 trees vs. 300 trees) simulating Tianjin's industrial sustainability transition. Monitored energy usage and carbon footprint with `codecarbon` (`emissions.csv`), visualized the empirical trade-off (`tianjin_rf_tradeoff.png`), finalized documentation, and deployed artifacts to GitHub.
     - **Status:** Green AI experiment complete, trade-off analysis verified, and full report integrated into README.
